@@ -2,7 +2,7 @@
 
 set -e
 if [ -z $1 ]; then
-   VER="1.4.0"
+   VER="1.4.1"
 else
    VER=$1
 fi
